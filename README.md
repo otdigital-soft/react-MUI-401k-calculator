@@ -1,8 +1,6 @@
 # Material UI 401(k) Calculator
 
-This 401(k) Calculator is designed to help you accurately predict your 401(k) value at retirement. It's a fork of [401k](https://github.com/bsxp/401K).
-
-![401(k) calculator demo](401kanim.gif)
+This 401(k) Calculator is designed to help you accurately predict your 401(k) value at retirement.
 
 
 Install, build and serve
